@@ -3,7 +3,15 @@ git_collaboration workshop
 
 - git clone <URL>: downloads repository from web to our computer
 	- don't nest git repositories
--git switch -c <branch_name> : create and switch to branch_name
+
+### Branches
+- git branch <branch_name> : create branch name
+- git switch -c <branch_name> : create and switch to branch_name
+
+- git stash : temp save commit
+- git stash list
+- git stash apply
+
 
 
 
