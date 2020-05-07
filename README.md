@@ -12,6 +12,7 @@ git_collaboration workshop
 - git stash list
 - git stash apply
 
+changes after comments
 
 
 
